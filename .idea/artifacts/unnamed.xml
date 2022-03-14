@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="archive" name="unnamed.war">
+      <element id="javaee-facet-resources" facet="2020211001001321Chengxinpeng/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="2020211001001321Chengxinpeng" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
