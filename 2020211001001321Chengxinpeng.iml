@@ -27,5 +27,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 10.0.17" level="application_server_libraries" />
+    <orderEntry type="library" name="Maven: com.microsfot.sqlserver:mssql-jdbc:9.4.1.jre16" level="project" />
   </component>
 </module>

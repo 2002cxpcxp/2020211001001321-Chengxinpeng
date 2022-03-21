@@ -7,7 +7,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-public class Helloservlet extends HttpServlet {
+public class Helloworldservlet extends HttpServlet {
     public void doGet(HttpServletRequest request, HttpServletResponse response)
         throws IOException {
         PrintWriter writer = response.getWriter();

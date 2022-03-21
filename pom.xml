@@ -12,5 +12,11 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
-    
+    <dependencies>
+        <dependency>
+            <groupId>com.microsfot.sqlserver</groupId>
+            <artifactId>mssql-jdbc</artifactId>
+            <version>9.4.1.jre16</version>
+        </dependency>
+    </dependencies>
 </project>
