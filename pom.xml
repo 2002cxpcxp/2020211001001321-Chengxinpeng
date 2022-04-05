@@ -13,10 +13,19 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
     <dependencies>
+
+        <!-- https://mvnrepository.com/artifact/com.microsoft.sqlserver/mssql-jdbc -->
         <dependency>
-            <groupId>com.microsfot.sqlserver</groupId>
+            <groupId>com.microsoft.sqlserver</groupId>
             <artifactId>mssql-jdbc</artifactId>
-            <version>9.4.1.jre16</version>
+            <version>11.1.0.jre17-preview</version>
+        </dependency>
+
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+            <version>2.5-20081211</version>
         </dependency>
     </dependencies>
+
 </project>

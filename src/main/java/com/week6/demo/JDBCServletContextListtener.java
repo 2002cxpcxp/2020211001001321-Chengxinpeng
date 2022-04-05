@@ -1,11 +1,9 @@
 package com.week6.demo;
 
 
-
 import jakarta.servlet.ServletContext;
 import jakarta.servlet.ServletContextEvent;
 import jakarta.servlet.ServletContextListener;
-import jakarta.servlet.ServletRequestAttributeEvent;
 import jakarta.servlet.annotation.WebServlet;
 
 import java.sql.Connection;
